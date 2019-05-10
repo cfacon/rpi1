@@ -1,0 +1,6 @@
+sudo service mosquitto stop
+sudo service mosquitto restart
+sudo service mosquitto start
+
+ mosquitto_pub -h localhost -t robot/commande -m avanti -u apo -P frgs6422
+

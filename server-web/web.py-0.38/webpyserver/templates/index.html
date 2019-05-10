@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>Robot jmd</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link  href="static/robot2.css" rel="stylesheet" type="text/css" />
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+MonImageP = new Array(6);
+for(i = 0; i < 7; i++) {
+   MonImageP[i] = new Image();
+   MonImageP[i].src = "static/potard" + i + ".gif";
+}
+
+
+function fpotard(x)
+{
+	if (x=='undefined')
+  	{ 
+  		return;
+  	}
+	//requete Http pour le serveur
+	var xmlhttp=new XMLHttpRequest();
+	xmlhttp.onreadystatechange=function()
+  	{
+  		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    		{
+			document.getElementById('potardgif').src=MonImageP[xmlhttp.responseText].src;
+    		}
+	}
+	xmlhttp.open("POST","/",true);
+	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp.send("vitesse="+x);
+}
+
+function move(direction)
+{
+	if (direction=='undefined')
+  	{ 
+  		return;
+  	}
+	//requete Http pour le serveur
+	var xmlhttp=new XMLHttpRequest();
+  	
+	xmlhttp.open("POST","/",true);
+	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp.send("direction="+direction);
+}
+function rotate(orientation)
+{
+	if (orientation=='undefined')
+  	{ 
+  		return;
+  	}
+	//requete Http pour le serveur
+	var xmlhttp=new XMLHttpRequest();
+  	
+	xmlhttp.open("POST","/",true);
+	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp.send("orientation="+orientation);
+}
+</SCRIPT>
+</head>
+<body>
+		<div id="Texte1">	
+		<h2> &nbsp Déplacement Robot &nbsp </h2>
+		</div>
+		
+		<div id="block1">
+			<button id="btnAvant" class="bouton_moteur" onclick="javascript:move('avant');" ><img src="static/avant.png" height="100px" width="100px"/></button>
+		</div>
+
+		<div id="block2">
+			<button  id="btnGauche" class="bouton_moteur" onclick="javascript:move('gauche');" ><img src="static/gauche.png" height="100px" width="100px"/></button>
+		</div>
+		
+		<div id="block3">
+			<button  id="btnDroite" class="bouton_moteur" onclick="javascript:move('droite');" ><img src="static/droite.png" height="100px" width="100px"/></button>
+		</div>
+
+		<div id="block4">
+			<button  id="btnArriere"  class="bouton_moteur" onclick="javascript:move('arriere');" ><img src="static/arriere.png" height="100px" width="100px"/></button>
+		</div>
+
+		<div id="block5">
+			<button  id="btnStop"  class="bouton_moteur" onclick="javascript:move('stop');" ><img src="static/stop.png" height="100px" width="100px"/></button>
+		</div>
+
+		<div id="block7">
+			<button id="btnHaut" class="bouton_camera" onclick="javascript:rotate('bth');" ><img src="static/bth.jpg" height="62px" width="62px"/></button>
+		</div>
+
+		<div id="block8">
+			<button  id="btnG" class="bouton_camera" onclick="javascript:rotate('btg');" ><img src="static/btg.jpg" height="62px" width="62px"/></button>
+		</div>
+		
+		<div id="block9">
+			<button  id="btnD" class="bouton_camera" onclick="javascript:rotate('btd');" ><img src="static/btd.jpg" height="62px" width="62px"/></button>
+		</div>
+
+		<div id="block10">
+			<button  id="btnBas" class="bouton_camera" onclick="javascript:rotate('btb');" ><img src="static/btb.jpg" height="62px" width="62px"/></button>
+		</div>
+
+		<div id="Texte2">	
+		<h2> &nbsp Réglage Vitesse &nbsp </h2>
+		</div>
+
+		<div id="Texte3">	
+		<h2> &nbsp Déplacement Caméra &nbsp </h2>
+		</div>
+
+		<div id="block6">
+
+		<MAP NAME="potard">
+		  <AREA SHAPE="RECT" COORDS="40,1,75,35" HREF="javascript:fpotard(0);">
+		  <AREA SHAPE="RECT" COORDS="80,1,125,35" HREF="javascript:fpotard(1);">
+		  <AREA SHAPE="RECT" COORDS="130,1,170,35" HREF="javascript:fpotard(2);">
+		  <AREA SHAPE="RECT" COORDS="180,1,220,35" HREF="javascript:fpotard(3);">
+		  <AREA SHAPE="RECT" COORDS="230,1,275,35" HREF="javascript:fpotard(4);">
+		  <AREA SHAPE="RECT" COORDS="280,1,320,35" HREF="javascript:fpotard(5);">
+		</MAP>
+		
+		<IMG id="potardgif" SRC="static/potard0.gif" BORDER=0 WIDTH=350 HEIGHT=35 USEMAP="#potard">
+		
+</body>
+</html>

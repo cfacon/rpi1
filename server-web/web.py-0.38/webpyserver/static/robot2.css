@@ -1,0 +1,118 @@
+
+button
+{
+	vertical-align: middle;
+
+}
+.bouton_moteur
+{
+	background-color : #bbFFFF;
+	height : 110px;
+	width:110px;
+}
+.bouton_camera
+{
+	background-color : #FFFFFF;
+	height : 68px;
+	width: 68px;
+}
+body
+{
+margin-left:50px;
+margin-right:auto;
+text-align:left;
+width :400px;
+}
+
+#block1
+{
+	position : absolute;
+	left:200px;
+	top:100px;
+}
+
+#block2	
+{
+	position :absolute;
+	left:75px;
+	top:220px;
+}
+
+#block3
+{
+	position : absolute;
+	left:325px;
+	top:220px;
+}
+
+#block4	
+{
+	position :absolute;
+	left:200px;
+	top:340px;
+}
+#block5
+{
+	position :absolute;
+	left:200px;
+	top:220px;
+}
+#block6
+{
+	position :absolute;
+	left:230px;
+	top:580px;
+}
+
+#block7
+{
+	position : absolute;
+	left:580px;
+	top:150px;
+}
+
+#block8	
+{
+	position :absolute;
+	left:520px;
+	top:230px;
+}
+
+#block9
+{
+	position : absolute;
+	left:640px;
+	top:230px;
+}
+
+#block10	
+{
+	position :absolute;
+	left:580px;
+	top:310px;
+}
+
+#Texte1
+{
+	position :absolute;
+	left:136px;
+	top:10px;
+	border: 2px solid #666;
+	background-color :#BCF5A9;
+}
+#Texte2
+{
+	position :absolute;
+	left:310px;
+	top:480px;
+	border: 2px solid #666;
+	background-color :#BCF5A9;
+}
+#Texte3
+{
+	position :absolute;
+	left:490px;
+	top:10px;
+	border: 2px solid #666;
+	background-color :#BCF5A9;
+}
