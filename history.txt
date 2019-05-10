@@ -1,0 +1,1000 @@
+  778  cp test_tourelle.py ../mon_peit_robot/tourelle.py
+  779  cd ..
+  780  cd mon_peit_robot/
+  781  ls
+  782  nano tourelle.py 
+  783  nano robot.py 
+  784  cp robot.py 1robot.py
+  785  ls
+  786  nano robot.py 
+  787  sudo python robot.py 
+  788  nano robot.py 
+  789  sudo python robot.py 
+  790  nano robot.py 
+  791  sudo python robot.py 
+  792  nano propulsion.py
+  793  sudo python robot.py 
+  794  nano propulsion.py
+  795  ls
+  796  rm propulsion.pyc
+  797  ls
+  798  sudo python 1robot.py 
+  799  nano propulsion.py
+  800  sudo python 1robot.py 
+  801  nano propulsion.py
+  802  sudo python 1robot.py 5
+  803  nano propulsion.py
+  804  cp tourelle.py test.py
+  805  nano test.py 
+  806  sudo python test.py 
+  807  nano test.py 
+  808  sudo python test.py 
+  809  nano test.py 
+  810  sudo python test.py 
+  811  nano test.py 
+  812  sudo python test.py 
+  813  nano test.py 
+  814  sudo python test.py 
+  815  nano test.py 
+  816  sudo python test.py 
+  817  nano test.py 
+  818  sudo python test.py 
+  819  nano test.py 
+  820  sudo python test.py 
+  821  nano test.py 
+  822  sudo python test.py 
+  823  nano propulsion.py
+  824  nano test.py 
+  825  sudo python test.py 
+  826  nano propulsion.py
+  827  sudo python test.py 
+  828  nano propulsion.py
+  829  sudo python test.py 
+  830  nano test.py 
+  831  nano propulsion.py
+  832  sudo python test.py 
+  833  nano propulsion.py
+  834  nano test.py 
+  835  sudo python test.py 
+  836  nano propulsion.py
+  837  sudo python test.py 
+  838  nano test.py 
+  839  sudo python test.py 
+  840  nano propulsion.py
+  841  sudo python test.py 
+  842  nano propulsion.py
+  843  sudo python test.py 
+  844  nano propulsion.py
+  845  sudo python test.py 
+  846  nano propulsion.py
+  847  sudo python test.py 
+  848  nano propulsion.py
+  849  sudo python test.py 
+  850  nano propulsion.py
+  851  sudo python test.py 
+  852  nano propulsion.py
+  853  sudo python test.py 
+  854  nano propulsion.py
+  855  sudo python test.py 
+  856  nano propulsion.py
+  857  sudo python test.py 
+  858  nano propulsion.py
+  859  nano test.py 
+  860  sudo python test.py 
+  861  nano test.py 
+  862  nano propulsion.py
+  863  nano test.py 
+  864  sudo python test.py 
+  865  nano test.py 
+  866  nano propulsion.py
+  867  sudo python test.py 
+  868  nano propulsion.py
+  869  sudo python test.py 
+  870  sudo python 1robot.py 
+  871  sudo python 1robot.py 5
+  872  nano propulsion.py
+  873  sudo python 1robot.py 5
+  874  sudo python 1robot.py 
+  875  nano 1robot.py 
+  876  nano robot.py 
+  877  sudo python robot.py 
+  878  nano robot.py 
+  879  sudo python robot.py 
+  880  nano propulsion.py
+  881  sudo python robot.py 
+  882  nano test.py 
+  883  sudo python test.py 
+  884  nano robot.py 
+  885  nano test.py 
+  886  nano propulsion.py
+  887  nano test.py 
+  888  sudo python test.py 
+  889  nano robot.py 
+  890  nano test.py 
+  891  sudo python test.py 
+  892  nano robot.py 
+  893  cp robot.py test2.py
+  894  nano test2.py 
+  895  sudo python test2.py 
+  896  sudo python robot.py 
+  897  cp robot.py 3test.py
+  898  nano 3test.py 
+  899  sudo python 3test.py 
+  900  nano 3test.py 
+  901  sudo python 3test.py 
+  902  nano 3test.py 
+  903  sudo python 3test.py 
+  904  nano 3test.py 
+  905  sudo python 3test.py 
+  906  nano 3test.py 
+  907  sudo python 3test.py 
+  908  nano 3test.py 
+  909  sudo python 3test.py 
+  910  nano 3test.py 
+  911  sudo python 3test.py 
+  912  nano 3test.py 
+  913  sudo python 3test.py 
+  914  nano 3test.py 
+  915  sudo python 3test.py 
+  916  nano 3test.py 
+  917  sudo python 3test.py 
+  918  nano 3test.py 
+  919  sudo python 3test.py 
+  920  nano 3test.py 
+  921  sudo python 3test.py 
+  922  ls
+  923  sudo python tourelle.py 
+  924  shutdown -h now
+  925  sudo shutdown -h now
+  926  cd mon_peit_robot/
+  927  ls
+  928  nano tourelle.py 
+  929  sudo python tourelle.py 
+  930  nano tourelle.py 
+  931  sudo python tourelle.py 
+  932  nano tourelle.py 
+  933  sudo python tourelle.py 
+  934  nano tourelle.py 
+  935  sudo python tourelle.py 
+  936  nano tourelle.py 
+  937  sudo python tourelle.py 
+  938  nano tourelle.py 
+  939  sudo python tourelle.py 
+  940  nano tourelle.py 
+  941  sudo python tourelle.py 
+  942  nano tourelle.py 
+  943  sudo python tourelle.py 
+  944  nano tourelle.py 
+  945  sudo python tourelle.py 
+  946  nano tourelle.py 
+  947  sudo python tourelle.py 
+  948  nano tourelle.py 
+  949  sudo python tourelle.py 
+  950  nano tourelle.py 
+  951  nano robot.py 
+  952  nano propulsion.py
+  953  nano tourelle.py 
+  954  sudo python robot.py 
+  955  nano tourelle.py 
+  956  nano robot.py 
+  957  sudo python robot.py 
+  958  nano tourelle.py
+  959  sudo python robot.py 
+  960  nano robot.py 
+  961  nano tourelle.py
+  962  sudo python robot.py 
+  963  nano tourelle.py
+  964  sudo python robot.py 
+  965  nano tourelle.py
+  966  sudo python robot.py 
+  967  nano tourelle.py
+  968  sudo python robot.py 
+  969  nano robot.py 
+  970  sudo python robot.py 
+  971  nano robot.py 
+  972  sudo python robot.py 
+  973  nano robot.py 
+  974  sudo python robot.py 
+  975  nano robot.py 
+  976  sudo python robot.py 
+  977  nano robot.py 
+  978  sudo python robot.py 
+  979  nano robot.py 
+  980  sudo python robot.py 
+  981  nano robot.py 
+  982  sudo python robot.py 
+  983  nano robot.py 
+  984  sudo python robot.py 
+  985  nano robot.py 
+  986  sudo python robot.py 
+  987  nano robot.py 
+  988  sudo python robot.py 
+  989  nano robot.py 
+  990  sudo python robot.py 
+  991  nano robot.py 
+  992  sudo python robot.py 
+  993  nano robot.py 
+  994  sudo python robot.py 
+  995  nano robot.py 
+  996  sudo python robot.py 
+  997  nano tourelle.py
+  998  nano robot.py 
+  999  sudo python robot.py 
+ 1000  nano robot.py 
+ 1001  sudo python robot.py 
+ 1002  shutdown -h now
+ 1003  sudo shutdown -h now
+ 1004  ls
+ 1005  cd mon_peit_robot/
+ 1006  ls
+ 1007  nano robot.py 
+ 1008  sudo python robot.py 
+ 1009  nano propulsion.py
+ 1010  sudo python robot.py 
+ 1011  nano robot.py 
+ 1012  nano tourelle.py
+ 1013  nano robot.py 
+ 1014  sudo python robot.py 
+ 1015  nano tourelle.py
+ 1016  sudo python robot.py 
+ 1017  nano robot.py 
+ 1018  nano propulsion.py
+ 1019  nano robot.py 
+ 1020  sudo python robot.py 
+ 1021  nano robot.py 
+ 1022  nano propulsion.py
+ 1023  sudo python robot.py 
+ 1024  sudo shutdown -h now
+ 1025  cd mon_peit_robot/
+ 1026  nano tcrt5000.py
+ 1027  sudo python tcrt5000.py 
+ 1028  nano tcrt5000.py
+ 1029  sudo python tcrt5000.py 
+ 1030  nano tcrt5000.py
+ 1031  sudo python tcrt5000.py 
+ 1032  nano tcrt5000.py
+ 1033  sudo python tcrt5000.py 
+ 1034  nano tcrt5000.py
+ 1035  sudo python tcrt5000.py 
+ 1036  nano tcrt5000.py
+ 1037  nano robot.py 
+ 1038  nano tcrt5000.py
+ 1039  sudo python tcrt5000.py 
+ 1040  shutdown -h now
+ 1041  sudo shutdown -h now
+ 1042  ls
+ 1043  cd mon_peit_robot/
+ 1044  ls
+ 1045  sudo python tcrt5000.py 
+ 1046  nano robot.py 
+ 1047  nano propulsion.py
+ 1048  sudo python 1robot.py 
+ 1049  sudo python robot.py 
+ 1050  sudo route
+ 1051  nano robot.py 
+ 1052  sudo python robot.py 
+ 1053  nano robot.py 
+ 1054  sudo python robot.py 
+ 1055  nano robot.py 
+ 1056  sudo python robot.py 
+ 1057  nano robot.py 
+ 1058  sudo python robot.py 
+ 1059  nano robot.py 
+ 1060  sudo python robot.py 
+ 1061  shutdown -h now
+ 1062  sudo shutdown -h now
+ 1063  ls
+ 1064  ls -la
+ 1065  pwd
+ 1066  cd mon_peit_robot/
+ 1067  ls
+ 1068  ls -la
+ 1069  nano robot.py 
+ 1070  nano propulsion.py
+ 1071  python robot.py 
+ 1072  ls -la
+ 1073  nano test.py 
+ 1074  python test.py 
+ 1075  nano test.py 
+ 1076  nano propulsion.py
+ 1077  python test.py 
+ 1078  nano test2.py 
+ 1079  python test2.py 
+ 1080  nano propulsion.py
+ 1081  nano robot.py 
+ 1082  python robot.py 
+ 1083  nano robot.py 
+ 1084  nano test.py 
+ 1085  python test.py 
+ 1086  nano test.py 
+ 1087  python test.py 
+ 1088  nano test.py 
+ 1089  python test.py 
+ 1090  nano test.py 
+ 1091  python robot.py 
+ 1092  nano test.py 
+ 1093  python test.py 
+ 1094  nano robot.py 
+ 1095  nano tourelle.py
+ 1096  ls
+ 1097  ls -la
+ 1098  nano 3test.py 
+ 1099  nano robot.py 
+ 1100  python robot.py 
+ 1101  nano test2.py 
+ 1102  nano robot.py 
+ 1103  nano test2.py 
+ 1104  python test2.py 
+ 1105  nano test2.py 
+ 1106  python test2.py 
+ 1107  nano test2.py 
+ 1108  python test2.py 
+ 1109  nano test2.py 
+ 1110  python test2.py 
+ 1111  python robot.py 
+ 1112  nano robot.py 
+ 1113  nano test2.py 
+ 1114  ls -la
+ 1115  python capteur_ultrason.py 
+ 1116  nano capteur_ultrason.py 
+ 1117  python capteur_ultrason.py 
+ 1118  python robot.py 
+ 1119  nano test2.py 
+ 1120  python capteur_ultrason.py 
+ 1121  nano capteur_ultrason.py 
+ 1122  python capteur_ultrason.py 
+ 1123  nano capteur_ultrason.py 
+ 1124  python capteur_ultrason.py 
+ 1125  python robot.py 
+ 1126  shutdown -h now
+ 1127  sudo shutdown -h now
+ 1128  sudo raspi-config
+ 1129  s
+ 1130  ls
+ 1131  sudo raspi-config
+ 1132  sudo shutdown -h now
+ 1133  sudo raspi-config
+ 1134  sudo apt-get install xrdp
+ 1135  sudo apt-get install tightvncserver
+ 1136  sudo apt-get update
+ 1137  sudo apt-get upgrade
+ 1138  sudo apt-get install x11vnc
+ 1139  x11vnc
+ 1140  cd mon_serveur_web/
+ 1141  ls
+ 1142  python 4server.py 
+ 1143  nano 4server.py 
+ 1144  python 4server.py 
+ 1145  nano 4server.py 
+ 1146  python 4server.py 
+ 1147  nano 4server.py 
+ 1148  python 4server.py 
+ 1149  nano 4server.py 
+ 1150  python 4server.py 
+ 1151  cd mon_serveur_web/
+ 1152  nano 5server.py 
+ 1153  cd mon_serveur_web/
+ 1154  ls
+ 1155  python 5server.py 8080
+ 1156  nano  /etc/init.d/mjpg_streamer
+ 1157  sudo nano  /etc/init.d/mjpg_streamer
+ 1158  sudo chmod +x /etc/init.d/mjpg_streamer
+ 1159  sudo update-rc.d mjpg_streamer defaults
+ 1160  nano  /etc/init.d/mjpg_streamer
+ 1161  sudo nano  /etc/init.d/mjpg_streamer
+ 1162  sudo update-rc.d mjpg_streamer defaults
+ 1163  sudo shutdown -h now
+ 1164  sudo raspi-config 
+ 1165  sudo mjpg_streamer defaults
+ 1166  sudo nano  /etc/init.d/mjpg_streamer
+ 1167  top
+ 1168  sudo shutdown -r now
+ 1169  cd mon_serveur_web/
+ 1170  python 5server.py 
+ 1171  python 5server.py  8080
+ 1172  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 15" -o "/usr/lib/output_http.so -p 8090 -w ./www -c apo:frgs6422"     
+ 1173  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 15" -o "/usr/lib/output_http.so -p 8090 -w ./www "     
+ 1174  ls
+ 1175  python 5server.py 8080
+ 1176  python 4server.py 
+ 1177  nano 5server.py 
+ 1178  sudo python 5server.py 8080
+ 1179  python 4server.py 8080
+ 1180  sudo python 5server.py 8080
+ 1181  nano propulsion.py
+ 1182  sudo python 5server.py 8080
+ 1183  nano propulsion.py
+ 1184  sudo python 5server.py 8080
+ 1185  nano propulsion.py
+ 1186  sudo python 5server.py 8080
+ 1187  nano propulsion.py
+ 1188  nano actions_robot.py
+ 1189  sudo python 5server.py 8080
+ 1190  nano actions_robot.py
+ 1191  nano propulsion.py
+ 1192  nano actions_robot.py
+ 1193  nano 5server.py 
+ 1194  sudo python 5server.py 8080
+ 1195  nano 5server.py 
+ 1196  nano 4server.py 
+ 1197  python 4server.py 
+ 1198  nano 4server.py 
+ 1199  nano 5server.py 
+ 1200  python 4server.py 
+ 1201  nano 4server.py 
+ 1202  python 4server.py 
+ 1203  ls
+ 1204  nano propulsion.py
+ 1205  nano actions_robot.py
+ 1206  nano 4server.py 
+ 1207  python 4server.py 
+ 1208  nano actions_robot.py
+ 1209  nano 4server.py 
+ 1210  nano actions_robot.py
+ 1211  python 4server.py 
+ 1212  nano 4server.py 
+ 1213  python 4server.py 
+ 1214  nano 4server.py 
+ 1215  nano actions_robot.py
+ 1216  nano propulsion.py
+ 1217  nano 4server.py 
+ 1218  python 4server.py 
+ 1219  nano 4server.py 
+ 1220  nano actions_robot.py
+ 1221  python 4server.py 
+ 1222  nano actions_robot.py
+ 1223  python 4server.py 
+ 1224  nano actions_robot.py
+ 1225  python 4server.py 
+ 1226  nano propulsion.py
+ 1227  nano actions_robot.py
+ 1228  nano 4server.py 
+ 1229  python 4server.py 
+ 1230  nano ../mon_peit_robot/robot.py 
+ 1231  nano 4server.py 
+ 1232  python 4server.py 
+ 1233  nano propulsion.py
+ 1234  nano 4server.py 
+ 1235  python 4server.py 
+ 1236  nano actions_robot.py
+ 1237  nano 4server.py 
+ 1238  python 4server.py 
+ 1239  nano 4server.py 
+ 1240  nano actions_robot.py
+ 1241  nano propulsion.py
+ 1242  python 4server.py 
+ 1243  nano 4server.py 
+ 1244  nano actions_robot.py
+ 1245  python 4server.py 
+ 1246  sudo apt-get update
+ 1247  sudo apt-get install mosquitto
+ 1248  sudo apt-get install mosquitto mosquitto-clients python-mosquitto
+ 1249  sudo apt-get install python-mosquitto
+ 1250  sudo apt-get install mosquitto-clients
+ 1251  sudo apt-get install python-mosquitto
+ 1252  mosquitto_sub -h localhost -t "sensor/temperature"
+ 1253  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 15" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1254  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 24" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1255  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 15" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1256  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 24" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1257  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 800x600 -f 24" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1258  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1259  mosquitto_pub -h localhost -t sensor/temperature -m 22.5
+ 1260  mosquitto_pub -h localhost -t sensor/temperature -m 2
+ 1261  sudo pip install paho-mqtt
+ 1262  1
+ 1263  sudo shutdown -h now
+ 1264  hisory
+ 1265  history
+ 1266  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1267  history
+ 1268  pip install paho-mqtt
+ 1269  ls
+ 1270  ls -la
+ 1271  cd mon_serveur_web/
+ 1272  ls
+ 1273  nano client_mqtt.py
+ 1274  mosquitto_pub -h localhost -t house/bulbs/bulb1 -m test
+ 1275  python client_mqtt.py 
+ 1276  nano client_mqtt.py
+ 1277  nano 4server.py 
+ 1278  nano client_mqtt.py
+ 1279  python client_mqtt.py 
+ 1280  mosquitto_pub -h localhost -t house/bulbs/bulb1 -m test
+ 1281  nano client_mqtt.py
+ 1282  python client_mqtt.py 
+ 1283  nano client_mqtt.py
+ 1284  python client_mqtt.py 
+ 1285  nano client_mqtt.py
+ 1286  python client_mqtt.py 
+ 1287  nano client_mqtt.py
+ 1288  python client_mqtt.py 
+ 1289  nano client_mqtt.py
+ 1290  python client_mqtt.py 
+ 1291  nano client_mqtt.py
+ 1292  python client_mqtt.py 
+ 1293  history
+ 1294  nano client_mqtt.py
+ 1295  python client_mqtt.py 
+ 1296  mosquitto_pub -h localhost -t house/bulbs/bulb1 -m test
+ 1297  mosquitto_pub -h localhost -t house/bulbs/bulb1 -m test1
+ 1298  mosquitto_pub -h localhost -t robot/commande -m test1
+ 1299  mosquitto_pub -h localhost -t robot/commande -m avant
+ 1300  cd /etc/mosquitto/
+ 1301  mosquitto_passwd -c fichier_apo apo
+ 1302  sudo mosquitto_passwd -c fichier_apo apo
+ 1303  ls
+ 1304  sudo nano mosquitto.conf 
+ 1305  sudo service mosquitto restart
+ 1306  mosquitto_pub -h localhost -t robot/commande -m avant
+ 1307  mosquitto_pub -h localhost -t robot/commande -m avant -u apo -P frgs6422
+ 1308  mosquitto_pub -h localhost -t robot/commande -m avanti -u apo -P frgs6422
+ 1309  sudo nano mosquitto.conf 
+ 1310  ps -aux | grep mosquito
+ 1311  kill 4364
+ 1312  kill 711
+ 1313  ps -aux | grep mosquito
+ 1314  sudo service mosquitto stop
+ 1315  cd
+ 1316  cd mon_serveur_web/
+ 1317  nano cmd_mosquitto
+ 1318  nano cmd_mosquitto.txt
+ 1319  sudo service mosquitto start
+ 1320  mosquitto_pub -h localhost -t robot/commande -m avanti -u apo -P frgs6422
+ 1321  sudo shutdown -h now
+ 1322  history
+ 1323  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1324  sudo shutdown -h now
+ 1325  history
+ 1326  sudo raspi-config
+ 1327  systemctl (enable|disable) vncserver-virtuald.service
+ 1328  systemctl enable vncserver-virtuald.service
+ 1329  sudo systemctl enable vncserver-virtuald.service
+ 1330  systemctl start vncserver-x11-serviced.service
+ 1331  sudo systemctl start vncserver-x11-serviced.service
+ 1332  sudo raspi-config
+ 1333  cat .xsession-errors
+ 1334  sudo raspi-config
+ 1335  uname -a
+ 1336  sudo uname -a
+ 1337  free m
+ 1338  sudo raspi-config
+ 1339  sudo apt-get install lxsession
+ 1340  sudo  apt-get update
+ 1341  sudo apt-get install lxsession --fix-missing
+ 1342  cat .xsession-errors
+ 1343  sudo reboot
+ 1344  sudo raspi-config
+ 1345  top
+ 1346  top | grep vnc
+ 1347  top | grep sshd
+ 1348  top | grep 'sshd'
+ 1349  sudo raspi-config
+ 1350  cat .xsession-errors
+ 1351  cat /home/pi/.cache/lxsession/LXDE/run.log
+ 1352  nano ~/.vnc/xstartup
+ 1353  sudo apt-get update
+ 1354  tightvncserver
+ 1355  sudo apt-get upgrade
+ 1356  sudo apt-get install tightvncserver
+ 1357  sudo apt-get install lxde-core lxappearance
+ 1358  ps -aux
+ 1359  ps -aux | grep vnc
+ 1360  startx
+ 1361  cat /home/pi/.cache/lxsession/LXDE/run.log
+ 1362  tightvncpasswd
+ 1363  vncserver :1 -geometry 1280x800 -depth 16
+ 1364  sudo apt-get insall xrdp
+ 1365  sudo apt-get install xrdp
+ 1366  history
+ 1367  ps -aux | grep vnc
+ 1368  sudo kill 1245
+ 1369  sudo kill 1246*
+ 1370  sudo kill 1246
+ 1371  ps -aux | grep vnc
+ 1372  sudo kill 1800
+ 1373  ps -aux | grep vnc
+ 1374  sudo kill 292
+ 1375  ps -aux | grep vnc
+ 1376  sudo kill 305
+ 1377  sudo kill 314
+ 1378  history
+ 1379  ps -aux | grep mjpg
+ 1380  ps -aux
+ 1381  sudo raspi-config
+ 1382  vncserver :1 -geometry 1280x800 -depth 16
+ 1383  vncserver :2 -geometry 1280x800 -depth 16
+ 1384  vncpasswd
+ 1385  startx
+ 1386  sudo raspi-config
+ 1387  apt-get install vnc4server
+ 1388  sudo apt-get install vnc4server
+ 1389  cd mon_serveur_web/
+ 1390  ls
+ 1391  python client_mqtt.py 
+ 1392  su cedrick
+ 1393  su apo
+ 1394  cat /home/pi/.vnc/raspberrypi:1.log
+ 1395  vncserver :2 -geometry 1920x1080 -depth 24
+ 1396  tightvncserver
+ 1397  cat /home/pi/.vnc/raspberrypi:2.log
+ 1398  cat /home/pi/.vnc/xstartup
+ 1399  nano /home/pi/.vnc/xstartup
+ 1400  vncserver :1 -geometry 1920x1080 -depth 24
+ 1401  vncserver stop
+ 1402  python3
+ 1403  sudo apt install tightvncserver
+ 1404  /usr/bin/tightvncserver
+ 1405  nano ~/.vnc/xstartup
+ 1406  vncserver :3 -geometry 800x600 -depth 24
+ 1407  nano ~/.vnc/xstartup 
+ 1408  vncserver :1 -geometry 800x600 -depth 24
+ 1409  ps -aux | grep vnc
+ 1410  kill 825
+ 1411  kill 1086
+ 1412  ps -aux | grep vnc
+ 1413  vncserver :1 -geometry 800x600 -depth 24
+ 1414  ps -aux | grep vnc
+ 1415  kill 1181
+ 1416  history
+ 1417  tightvncserver -geometry 1200x700 -depth 16
+ 1418  tightvncserver -geometry 800x600 -depth 16
+ 1419  tightvncserver kill 1
+ 1420  tightvncserver -kill: 1
+ 1421  tightvncserver -kill :1
+ 1422  tightvncserver -kill: 2
+ 1423  tightvncserver -kill :1
+ 1424  tightvncserver -kill :2
+ 1425  tightvncserver -geometry 800x600 -depth 16
+ 1426  tightvncserver -kill :1
+ 1427  /usr/bin/tightvncserver 
+ 1428  tightvncserver -kill :1
+ 1429  tightvncserver -geometry 800x600 -depth 16
+ 1430  pip install --upgrade pip
+ 1431  sudo pip install --upgrade pip
+ 1432  pip install opencv-python
+ 1433  sudo shutdown -h now
+ 1434  cd mon_serveur_web/
+ 1435  sudo python 5server.py 
+ 1436  sudo python 5server.py 8080
+ 1437  cd mon_serveur_web/
+ 1438  nano test_queue.py
+ 1439  python test_queue.py 
+ 1440  python2 test_queue.py 
+ 1441  python2.7 test_queue.py 
+ 1442  nano test_queue.py
+ 1443  python test_queue.py 
+ 1444  ls
+ 1445  nano test.py 
+ 1446  nano 6server.py 
+ 1447  nano actions_robot2.py
+ 1448  nano test_queue2.py 
+ 1449  python test_queue2.py 
+ 1450  nano test_queue2.py 
+ 1451  python test_queue2.py 
+ 1452  nano test_queue2.py 
+ 1453  python test_queue2.py 
+ 1454  nano test_queue2.py 
+ 1455  python test_queue2.py 
+ 1456  nano test_queue2.py 
+ 1457  python test_queue2.py 
+ 1458  nano test_queue2.py 
+ 1459  python test_queue2.py 
+ 1460  nano test_queue2.py 
+ 1461  python test_queue2.py 
+ 1462  nano test_queue2.py 
+ 1463  nano test_queue3.py
+ 1464  python test_queue3.py 
+ 1465  nano test_queue3.py
+ 1466  python test_queue3.py 
+ 1467  nano test_queue3.py
+ 1468  python test_queue3.py 
+ 1469  nano test_queue3.py
+ 1470  python test_queue3.py 
+ 1471  nano test_queue3.py
+ 1472  python test_queue3.py 
+ 1473  nano test_queue3.py
+ 1474  python test_queue3.py 
+ 1475  cd mon_serveur_web/
+ 1476  nano 6server.py 
+ 1477  cp actions_robot.py actions_robot2.py
+ 1478  nano actions_robot2.py 
+ 1479  nano 6server.py 
+ 1480  nano actions_robot2.py 
+ 1481  sudo python 6server.py 
+ 1482  nano actions_robot2.py 
+ 1483  nano 6server.py 
+ 1484  sudo python 6server.py 
+ 1485  sudo python 6server.py 8080
+ 1486  nano actions_robot2.py 
+ 1487  sudo python 6server.py 8080
+ 1488  nano actions_robot2.py 
+ 1489  sudo python 6server.py 8080
+ 1490  nano actions_robot2.py 
+ 1491  nano propulsion.py
+ 1492  nano actions_robot2.py 
+ 1493  sudo python 6server.py 8080
+ 1494  nano actions_robot2.py 
+ 1495  sudo python 6server.py 8080
+ 1496  nano actions_robot2.py 
+ 1497  sudo python 6server.py 8080
+ 1498  nano actions_robot2.py 
+ 1499  sudo python 6server.py 8080
+ 1500  nano actions_robot2.py 
+ 1501  sudo python 6server.py 8080
+ 1502  nano actions_robot2.py 
+ 1503  sudo python 6server.py 8080
+ 1504  nano 6server.py 
+ 1505  nano actions_robot2.py 
+ 1506  python3
+ 1507  nano test.py
+ 1508  python3 test.py 
+ 1509  nano test.py
+ 1510  python3 test.py 
+ 1511  nano test.py
+ 1512  python3 test.py 
+ 1513  nano test.py
+ 1514  python3 test.py 
+ 1515  python test.py 
+ 1516  nano 6server.py 
+ 1517  python3 6server.py 
+ 1518  nano 6server.py 
+ 1519  cd ..
+ 1520  mkdir 3serveur_mqtt
+ 1521  cd 3serveur_mqtt/
+ 1522  nano sub_mqtt.py
+ 1523  python3 sub_mqtt.py 
+ 1524  cd ../mon_serveur_web/
+ 1525  ls
+ 1526  nano client_mqtt.py 
+ 1527  cd ../3serveur_mqtt/
+ 1528  nano sub_mqtt.py 
+ 1529  python3 sub_mqtt.py 
+ 1530  pip3 install paho-mqtt python-etcd
+ 1531  pip3
+ 1532  sudo pip3 install paho-mqtt python-etcd
+ 1533  nano test.py
+ 1534  python test.py 
+ 1535  python3 test.py 
+ 1536  apt-get install pip3
+ 1537  sudo apt-get install pip3
+ 1538  pip3 install paho-mqtt python-etcd
+ 1539  sudo apt-get install python3-pip
+ 1540  pip3 install paho-mqtt python-etcd
+ 1541  ps -aux 
+ 1542  ls
+ 1543  python3 sub_mqtt.py 
+ 1544  nano sub_mqtt.py 
+ 1545  nano test.py 
+ 1546  sudo shutdown -h now
+ 1547  cd server-web/
+ 1548  cd ..
+ 1549  cd mon_serveur_web/
+ 1550  cp 5server.py 6server.py
+ 1551  nano 6server.py 
+ 1552  history
+ 1553  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1554  sudo raspi-config
+ 1555  sudo reboot
+ 1556  cd mon_
+ 1557  cd mon_serveur_web/
+ 1558  ls -la
+ 1559  nano client_mqtt.
+ 1560  nano actions_robot2.py
+ 1561  nano actions_robot.py
+ 1562  rm -rf actions_robot2.py
+ 1563  cp actions_robot.py actions_robot2.py
+ 1564  nano actions_robot2.py
+ 1565  nano client_mqtt.py 
+ 1566  nano 5server.py 
+ 1567  nano client_mqtt.py 
+ 1568  python client_mqtt.py 
+ 1569  nano actions_robot2.py
+ 1570  nano propulsion.py
+ 1571  nano client_mqtt.py 
+ 1572  python client_mqtt.py 
+ 1573  nano client_mqtt.py 
+ 1574  python client_mqtt.py 
+ 1575  nano client_mqtt.py 
+ 1576  python client_mqtt.py 
+ 1577  nano client_mqtt.py 
+ 1578  python client_mqtt.py 
+ 1579  nano client_mqtt.py 
+ 1580  python client_mqtt.py 
+ 1581  nano client_mqtt.py 
+ 1582  python client_mqtt.py 
+ 1583  nano client_mqtt.py 
+ 1584  python client_mqtt.py 
+ 1585  nano client_mqtt.py 
+ 1586  python client_mqtt.py 
+ 1587  nano client_mqtt.py 
+ 1588  python client_mqtt.py 
+ 1589  nano client_mqtt.py 
+ 1590  python client_mqtt.py 
+ 1591  nano client_mqtt.py 
+ 1592  python client_mqtt.py 
+ 1593  nano client_mqtt.py 
+ 1594  python client_mqtt.py 
+ 1595  nano client_mqtt.py 
+ 1596  python client_mqtt.py 
+ 1597  nano client_mqtt.py 
+ 1598  python client_mqtt.py 
+ 1599  nano client_mqtt.py 
+ 1600  python client_mqtt.py 
+ 1601  nano client_mqtt.py 
+ 1602  python client_mqtt.py 
+ 1603  nano client_mqtt.py 
+ 1604  python client_mqtt.py 
+ 1605  nano client_mqtt.py 
+ 1606  python client_mqtt.py 
+ 1607  nano client_mqtt.py 
+ 1608  python client_mqtt.py 
+ 1609  nano client_mqtt.py 
+ 1610  python client_mqtt.py 
+ 1611  nano client_mqtt.py 
+ 1612  python client_mqtt.py 
+ 1613  nano client_mqtt.py 
+ 1614  python client_mqtt.py 
+ 1615  nano client_mqtt.py 
+ 1616  python client_mqtt.py 
+ 1617  nano client_mqtt.py 
+ 1618  python client_mqtt.py 
+ 1619  nano client_mqtt.py 
+ 1620  python client_mqtt.py 
+ 1621  nano client_mqtt.py 
+ 1622  python client_mqtt.py 
+ 1623  nano client_mqtt.py 
+ 1624  python client_mqtt.py 
+ 1625  nano propulsion.py
+ 1626  nano actions_robot2.py
+ 1627  python client_mqtt.py 
+ 1628  nano actions_robot2.py
+ 1629  nano client_mqtt.py 
+ 1630  python client_mqtt.py 
+ 1631  nano client_mqtt.py 
+ 1632  python client_mqtt.py 
+ 1633  nano client_mqtt.py 
+ 1634  python client_mqtt.py 
+ 1635  nano propulsion.py
+ 1636  python client_mqtt.py 
+ 1637  nano propulsion.py
+ 1638  python client_mqtt.py 
+ 1639  history
+ 1640  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1641  sudo shutdown -h now
+ 1642  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1643  history
+ 1644  cd mon_serveur_web/
+ 1645  python client_mqtt.py 
+ 1646  ls -la
+ 1647  cd mon_serveur_web/
+ 1648  ls
+ 1649  nano client_mqtt.py 
+ 1650  nano actions_robot2.py
+ 1651  nano server_bottle.py
+ 1652  python server_bottle.py 
+ 1653  nano server_bottle.py
+ 1654  python server_bottle.py 
+ 1655  git
+ 1656  mkdir robotv1
+ 1657  cd robotv1/
+ 1658  git clone https://github.com/cfacon/robotv1.git
+ 1659  ls
+ 1660  cd robotv1/
+ 1661  cd ..
+ 1662  mv robotv1/* .
+ 1663  rm robotv1/
+ 1664  rm -rf robotv1/
+ 1665  ls
+ 1666  python server.py 
+ 1667  cd ..
+ 1668  ls
+ 1669  nano client_mqtt.py 
+ 1670  cp actions_robot2.py robotv1/.
+ 1671  cd robotv1/
+ 1672  nano server.py 
+ 1673  nano actions_robot2.py 
+ 1674  python server.py 
+ 1675  cp ../propulsion.py .
+ 1676  python server.py 
+ 1677  nano server.py 
+ 1678  python server.py 
+ 1679  nano actions_robot2.py 
+ 1680  nano joy.tpl 
+ 1681  cd mon_serveur_web/
+ 1682  cd robotv1/
+ 1683  python video.py
+ 1684  python server.py 
+ 1685  ps
+ 1686  top
+ 1687  cd mon_serveur_web/
+ 1688  cd robotv1/
+ 1689  python server.py 
+ 1690  top
+ 1691  sudo shutdown -r now
+ 1692  cd mon_serveur_web/
+ 1693  ls
+ 1694  cd robotv1/
+ 1695  ls
+ 1696  python server.py 
+ 1697  nano joy.tpl
+ 1698  python server.py 
+ 1699  nano joy.tpl
+ 1700  python server.py 
+ 1701  ls
+ 1702  nano server.py 
+ 1703  nano videoProcessing.py
+ 1704  ls
+ 1705  nano server.py 
+ 1706  python server.py 
+ 1707  nano server.py 
+ 1708  nano videoProcessing.py
+ 1709  nano server.py 
+ 1710  ls
+ 1711  sudo nano videoProcessing.py
+ 1712  rm -rf videoProcessing.py
+ 1713  ls
+ 1714  nano test.py
+ 1715  rm -rf test.py 
+ 1716  nano videoProcessing.py
+ 1717  rm -rf video.py
+ 1718  nano video.py
+ 1719  ls
+ 1720  nano video.py 
+ 1721  history
+ 1722  mjpg_streamer -i "/usr/lib/input_uvc.so -d /dev/video0 -y  -r 320x240 -f 12" -o "/usr/lib/output_http.so -p 8090 -w ./www"
+ 1723  nano video.py 
+ 1724  nano joy.tpl
+ 1725  nano video.py 
+ 1726  python video.py 
+ 1727  nano video.py 
+ 1728  python video.py 
+ 1729  nano video.py 
+ 1730  python video.py 
+ 1731  nano server.py 
+ 1732  python video.py 
+ 1733  ps
+ 1734  python server.py 
+ 1735  kill 1851
+ 1736  python server.py 
+ 1737  top
+ 1738  ps
+ 1739  kill 1901
+ 1740  ps
+ 1741  python server.py 
+ 1742  ps
+ 1743  nano server.py 
+ 1744  python server.py 
+ 1745  nano joy.tpl
+ 1746  python server.py 
+ 1747  nano assets/style.css 
+ 1748  nano joy.tpl
+ 1749  python server.py 
+ 1750  nano joy.tpl
+ 1751  nano assets/style.css 
+ 1752  python server.py 
+ 1753  nano assets/style.css 
+ 1754  python server.py 
+ 1755  nano assets/style.css 
+ 1756  python server.py 
+ 1757  ls
+ 1758  ls -la
+ 1759  ls mon_serveur_web/
+ 1760  cd mon_serveur_web/
+ 1761  history
+ 1762  ls
+ 1763  python client_mqtt.py 
+ 1764  nano client_mqtt.py 
+ 1765  cd ..
+ 1766  ls
+ 1767  ls all/
+ 1768  git init
+ 1769  git commit -m "first commit"
+ 1770  git init
+ 1771  git commit -m "first commit"
+ 1772  git add *
+ 1773  git commit -m "first commit"
+ 1774  git remote add origin https://github.com/cfacon/rpi1
+ 1775  git push -u origin master
+ 1776  ls -la
+ 1777  history > history.txt
